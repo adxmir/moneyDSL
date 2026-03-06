@@ -11,10 +11,5 @@ Avoid floating-point rounding errors and ensure safe currency operations at comp
 - **Conversion support** — compile-time checked direct and indirect conversions between currencies  
 - Unit tests with GoogleTest  
 
----
 
-## To Do
-- **Further improve floating point accuracy**
-- **Extend DSL to utilise upto date conversion rates**
-- **Increase DSL functionality** 
 
